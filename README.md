@@ -66,9 +66,8 @@ Autonomous AI agents (M0nk Engine) perform the following operations: - Analyze n
 
 ## Technical Stack
 ![App Screenshot](https://beeimg.com/images/k45004081663.png)
-## DEMO#1
-![App Screenshot](https://s13.gifyu.com/images/bq17R.gif)
-## DEMO#2
+
+## DEMO
 ![App Screenshot](https://s13.gifyu.com/images/bq17j.gif)
 ## Installation
 
