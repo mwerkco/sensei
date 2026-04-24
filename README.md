@@ -1,4 +1,4 @@
-![Logo]([https://beeimg.com/images/a68850852491.png)
+![Logo]([https://beeimg.com/images/a68850852491.png])
 
 
 # Sensei | The Ultimate Intelligence Interface
